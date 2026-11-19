@@ -1,0 +1,1 @@
+Rajoanul Islam Shuvo - Personal Portfolio\n\nUpload index.html and profile.png to the root of your GitHub repository.\nThen open Settings > Pages, select Deploy from a branch, choose main and /(root), and Save.\n
